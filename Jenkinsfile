@@ -21,7 +21,7 @@ pipeline {
     GIT_COMMITTER_EMAIL = 'auto@status.im'
     /* dev page settings
      * TODO: update DEV_SITE env var and uncomment it before the build */
-    // DEV_SITE = 'dev.domain.com'
+    DEV_SITE = 'dev.acid.info'
     DEV_HOST = 'jenkins@node-01.do-ams3.sites.misc.statusim.net'
     SCP_OPTS = 'StrictHostKeyChecking=no'
   }
