@@ -19,11 +19,10 @@ pipeline {
     CONTENT_SOURCE_URL = '../src'
     GIT_COMMITTER_NAME = 'status-im-auto'
     GIT_COMMITTER_EMAIL = 'auto@status.im'
-    /* dev page settings
-     * TODO: update DEV_SITE env var and uncomment it before the build */
-    DEV_SITE = 'dev.acid.info'
-    DEV_HOST = 'jenkins@node-01.do-ams3.sites.misc.statusim.net'
-    SCP_OPTS = 'StrictHostKeyChecking=no'
+    PROD_SITE = 'acid.info'
+    DEV_SITE  = 'dev.acid.info'
+    DEV_HOST  = 'jenkins@node-01.do-ams3.sites.misc.statusim.net'
+    SCP_OPTS  = 'StrictHostKeyChecking=no'
   }
 
   stages {
@@ -40,7 +39,7 @@ pipeline {
     stage('Install') {
       steps {
         dir('builder') {
-           sh 'yarn install'
+          sh 'yarn install'
         }
       }
     }
@@ -48,7 +47,8 @@ pipeline {
     stage('Build') {
       steps {
         dir('builder') {
-           sh 'yarn build'
+          sh 'yarn build'
+          sh "echo ${env.PROD_SITE} > out/CNAME"
         }
       }
     }
