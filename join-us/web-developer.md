@@ -55,3 +55,5 @@ Learn more about the perks and benefits of working with us [here](https://status
 Logos emerges from and builds upon the mission undertaken by Status. More overtly political than its predecessor, Logos creates digital infrastructure to emancipate those shut out of global society by oppressive governments, economic circumstance or Big Tech overreach. The collective’s long-term goal is the formation of a network state—a purpose-driven community living within an opt-in alternative system to that of the nation state.
 
 To learn more about Logos, consult this [handbook](https://github.com/acid-info/public-assets/blob/master/logos-manual.pdf).
+
+Got what it takes? [Apply today](https://grnh.se/37bd93c91us) and join us.
