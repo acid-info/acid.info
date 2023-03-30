@@ -38,6 +38,7 @@ Working alongside experienced activists, our dream candidate is one who firmly a
 
 ### Compensation:
 
+- The expected compensation range for this role is `$40,000 - $60,000` (negotiable, dependent on how we assess your skills and experience throughout our interview process.
 - Payment in any mix of fiat or crypto, with the option to choose the ratio of fiat to crypto on a monthly basis
 - A stake in our success via a Status Network Token bonus package
 

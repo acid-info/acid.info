@@ -1,10 +1,10 @@
 ---
-title: Digital Communications Lead
+title: Community Marketing & Communications Strategist
 ---
 
-# Digital Communications Lead
+# Community Marketing & Communications Strategist
 
-[Acid.info](http://Acid.info) needs a seasoned Digital Communications Lead to join its Movement Building and Campaign Activation unit. Derived from our political philosophy, the message you help formulate will be central to everything we do. If you’re a communications mage and natural storyteller, capable of delivering a complex narrative in the most impactful way, this could be the gig for you. 
+[Acid.info](http://Acid.info) needs a community marketing and communications strategy wizard to join its Movement Building and Campaign Activation unit. The chosen applicant will be tasked with developing a clear, purpose-driven communications strategy for multiple teams under the wider organization’s umbrella. We’re looking for an inspiring, motivating, impactful and energetic individual to take the reigns and reflect these qualities and our political philosophy across all future communications. 
 
 We are building a grassroots movement to create technological alternatives to oppressive systems of societal control. Vehemently anti-censorship, anti-surveillance and anti-authoritarian, we support basic human rights via the creation of opt-in alternatives to traditional power structures.
 
@@ -12,38 +12,37 @@ Working alongside experienced activists, our dream candidate is one who firmly a
 
 ### Key responsibilities
 
-- Develop ideas and initial plans for an overall digital communications strategy that aligns with our overall movement building strategy and commercial communications priorities
-- Work proactively and productively with key [Acid.info](http://Acid.info) team members and other stakeholders to ensure the disciplined delivery of the digital communications plan
-- Take ownership of our social media channels
-- Assume day-to-day responsibility for all of our online channels
+- Design and deliver a detailed, research-based, organization-wide commercial communications plan
+- Proactively collaborate across multiple teams within the organization to ensure successful delivery of the communications strategy
+- Take day-to-day responsibility for all of our commercial communications and marketing needs
 
 ### Ideal qualities
 
-- 7+ years experience in digital communications and marketing, including solid experience in web3/blockchain
-- Excellent written and verbal communications skills
-- Experience working for or with political, campaigning, civil society, human rights organizations or NGOs.
-- Deep experience in designing and delivering impactful digital communications campaigns validated by use of data and KPIs
-- Ability to monitor trends and identify creative opportunities that support campaign objectives
-- Demonstrable experience of successfully using social media for campaigning, mobilization, community engagement and/or fundraising
-- Good understanding of the political climate and developments in the privacy, data and digital rights, and blockchain space.
-- Ability to monitor and analyze performance data.
-- Excellent organizational skills with the ability to initiate, monitor, prioritise and complete projects
+- 5+ years experience in marketing, including experience in web3/blockchain
+- Experience in community engagement, marketing and communications
+- Experience successfully designing and delivering niche social media campaigns
+- Ability to plan and execute event representation (both online and offline), targeting and attracting audiences from within the blockchain space
+- Ability to deliver results with minimal guidance and comfortable working autonomously
+- Good understanding of the political climate and developments in the privacy, data and digital rights, and blockchain space
+- Ability to monitor, analyze and utilize performance data
+- Excellent written and verbal communication skills
+- Excellent organizational skills and the ability to initiate, monitor, prioritize and complete projects
 - High degree of self-motivation and exceptional attention to detail
-- Able to work independently and as part of a team, under pressure, and meet tight deadlines
 - Commitment and willingness to learn and grow
 - A strong alignment with our [principles](https://status.im/about/#our-principles)
 
 ### Bonus points
 
 - Bachelor's degree in marketing, business administration or a related field
+- Experience with political campaigning, or with civil society or human rights organizations and NGOs
+- Experience in blockchain or peer-to-peer technology
 - Experience working remotely and asynchronously
-- Experience in blockchain and peer-to-peer technology
 - Experience working for an open-source organization or an organization aligned politically with Status
 - You identify with the cypherpunk movement
 
 ### Compensation
 
-- Expected compensation ranges from `$70,000-$100,000` for this role—negotiable for the right candidate
+- Expected compensation ranges from ‘$70,000-$100,000’ for this role—negotiable for the right candidate
 - Payment in any mix of fiat or crypto, with the option to choose the ratio of fiat to crypto on a monthly basis
 - A stake in our success via a Status Network Token bonus package
 
@@ -67,4 +66,4 @@ Logos emerges from and builds upon the mission undertaken by Status. More overtl
 
 To learn more about Logos, consult this [handbook](https://github.com/acid-info/public-assets/blob/master/logos-manual.pdf). 
 
-Got what it takes? [Apply today](https://grnh.se/74e626161us) and join us.
+Got what it takes? [Apply today](https://grnh.se/bd98c8601us) and join us.
