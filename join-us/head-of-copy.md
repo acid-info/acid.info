@@ -11,13 +11,13 @@ Logos is a grassroots movement creating technological alternatives to oppressive
 
 Working alongside experienced activists, our dream candidate is one who firmly aligns with Logos’ political and philosophical ethos. We’re not looking for someone that is just “into crypto/web3” but an individual that lives and breathes cypherpunk ideals and shows a passion for disruption through unconventional means.
 
-### Key responsibilities:
+### Key responsibilities
 
 - Design and deliver a detailed plan and roadmap for producing engaging, motivational and effective political and community-facing content that resonates with target audiences and achieves desired outcomes
 - Provide effective and motivating leadership for copywriting and technical documentation team members
 - Develop guidelines and best practices with the aim of improving copywriting efforts across all teams
 
-### Ideal qualities:
+### Ideal qualities
 
 - 5+ years of experience in writing and editing copy
 - Experience in, and passion for, blockchain technology
@@ -30,19 +30,19 @@ Working alongside experienced activists, our dream candidate is one who firmly a
 - Shared values and political ideologies of the cypherpunk movement
 - Comfortable working remotely and asynchronously
 
-### Bonus points:
+### Bonus points
 
 - Experience working with an open-source organization
 - Technical writing experience
 - Experience with political or activist movements
 
-### Compensation:
+### Compensation
 
 - The expected compensation range for this role is `$40,000 - $60,000` (negotiable, dependent on how we assess your skills and experience throughout our interview process.
 - Payment in any mix of fiat or crypto, with the option to choose the ratio of fiat to crypto on a monthly basis
 - A stake in our success via a Status Network Token bonus package
 
-### Working with us:
+### Working with us
 
 - All positions are remote with flexible working hours—we value quality and consistency over strict obedience to a traditional working day.
 - We operate an open vacation policy—there’s no hard limit on how much holiday you take.
@@ -52,11 +52,11 @@ Working alongside experienced activists, our dream candidate is one who firmly a
 
 Learn more about the perks and benefits of working with us [here](https://status.im/our_team/perks_benefits.html).
 
-### About Acid.info:
+### About Acid.info
 
 [Acid.info](http://Acid.info) is a creative design studio within the Logos DAO. It serves as the organization’s communications hub and is made up of designers, coders, linguists, dreamers and revolutionaries. The department takes a brutalist approach to the creation process, favoring impactful designs over superfluous detail that risks diluting or warping the overall message.
 
-### About Logos:
+### About Logos
 
 Logos emerges from and builds upon the mission undertaken by Status. More overtly political than its predecessor, Logos creates digital infrastructure to emancipate those shut out of global society by oppressive governments, economic circumstances or Big Tech overreach. The collective’s long-term goal is the formation of a network state—a purpose-driven community living within an opt-in alternative system to that of the nation state.
 
