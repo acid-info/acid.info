@@ -34,6 +34,34 @@
         {
           "metadata": {
             "published": true,
+            "title": "Community Marketing & Communications Strategist"
+          },
+          "navOrder": -1,
+          "localPath": "join-us/community-marketing-&-communications-strategist.md",
+          "path": [
+            "join-us",
+            "community-marketing-communications-strategist"
+          ],
+          "children": [],
+          "isDir": false
+        },
+        {
+          "metadata": {
+            "published": true,
+            "title": "Digital Communications Lead"
+          },
+          "navOrder": -1,
+          "localPath": "join-us/digital-communications-lead.md",
+          "path": [
+            "join-us",
+            "digital-communications-lead"
+          ],
+          "children": [],
+          "isDir": false
+        },
+        {
+          "metadata": {
+            "published": true,
             "title": "Digital Designer"
           },
           "navOrder": -1,
@@ -41,6 +69,20 @@
           "path": [
             "join-us",
             "digital-designer"
+          ],
+          "children": [],
+          "isDir": false
+        },
+        {
+          "metadata": {
+            "published": true,
+            "title": "Grassroots Community Organizer"
+          },
+          "navOrder": -1,
+          "localPath": "join-us/grassroots-community-organizer.md",
+          "path": [
+            "join-us",
+            "grassroots-community-organizer"
           ],
           "children": [],
           "isDir": false
