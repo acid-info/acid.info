@@ -9,14 +9,14 @@ Logos is a grassroots movement creating technological alternatives to oppressive
 
 Working closely with experienced activists, our ideal candidate is one who firmly aligns with Logos’ political and philosophical ethos. We’re not looking for someone that is just “into crypto/web3” but an individual that lives and breathes cypherpunk ideals and shows a passion for disruption through unconventional means.
 
-### Key responsibilities:
+### Key responsibilities
 
 - Lead our team’s UI/UX design efforts
 - Design, document, maintain and develop our design systems (with input from other team members)
 - Take responsibility for design workflows
 - Help the studio lead define and foresee work packages, and ensure they’re delivered punctually
 
-### Ideal qualities:
+### Ideal qualities
 
 - Extensive knowledge of design tools for everything from UX to (micro) interactions (e.g., Figma, Framer)
 - Good knowledge and understanding of design systems, typography and layout design
@@ -25,19 +25,19 @@ Working closely with experienced activists, our ideal candidate is one who firml
 - Experience collaborating with stakeholders to identify and design for user goals
 - A strong alignment with our [principles](https://status.im/about/#our-principles)
 
-### Bonus points:
+### Bonus points
 
 - Experience working with an open-source organization
 - Experience in designing publishing mediums such as online readers, zines, books and online publishing platforms
 - Experience in field computational design, generative art or memes
 
-### Compensation:
+### Compensation
 
 - The expected compensation range for this role is `$60,000 - $80,000 (negotiable, dependent on how we assess your skills and experience throughout our interview process.
 - Payment in any mix of fiat or crypto, with the option to choose the ratio of fiat to crypto on a monthly basis
 - A stake in our success via a Status Network Token bonus package
 
-### Working with us:
+### Working with us
 
 - All positions are remote with flexible working hours—we value quality and consistency over strict obedience to a traditional working day.
 - We operate an open vacation policy—there’s no hard limit on how much holiday you take.
@@ -47,11 +47,11 @@ Working closely with experienced activists, our ideal candidate is one who firml
 
 Learn more about the perks and benefits of working with us [here](https://status.im/our_team/perks_benefits.html).
 
-### About Acid.info:
+### About Acid.info
 
 [Acid.info](http://Acid.info) is a creative design studio within the Logos DAO. It serves as the organization’s communications hub and is made up of designers, coders, linguists, dreamers and revolutionaries. The department takes a brutalist approach to the creation process, favoring impactful designs over superfluous detail that risks diluting or warping the overall message.
 
-### About Logos:
+### About Logos
 
 Logos emerges from and builds upon the mission undertaken by Status. More overtly political than its predecessor, Logos creates digital infrastructure to emancipate those shut out of global society by oppressive governments, economic circumstance or Big Tech overreach. The collective’s long-term goal is the formation of a network state—a purpose-driven community living within an opt-in alternative system to that of the nation state.
 
