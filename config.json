@@ -37,11 +37,7 @@
     "social_media": [
       {
         "provider": "twitter",
-        "handler": "acidinfo"
-      },
-      {
-        "provider": "discord",
-        "handler": "your_dsc_handler"
+        "handler": "ac1d_info"
       },
       {
         "provider": "github",
