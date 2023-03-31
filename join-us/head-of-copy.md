@@ -3,9 +3,9 @@ title: Head of Copy
 ---
 # Head of Copy
 
-[Acid.info](http://Acid.info) is hunting for an experienced, creative Head of Copy to oversee the content production process across various mediums, including digital, print and social media. The chosen candidate will lead Logos’ copywriting and technical documentation efforts, supporting the wider organization’s communication needs.
+[Acid.info](http://Acid.info) is hunting for an experienced, creative Head of Copy to oversee the content production process across various mediums, including digital, print and social media. The chosen candidate will lead our copywriting and technical documentation efforts, supporting the wider organization’s communication needs.
 
-We are building a grassroots movement creating technological alternatives to oppressive systems of societal control. Vehemently anti-censorship, anti-surveillance and anti-authoritarian, we support basic human rights via the creation of opt-in alternatives to traditional power structures.
+We're building a grassroots movement to create technological alternatives to oppressive systems of societal control. Vehemently anti-censorship, anti-surveillance and anti-authoritarian, we support basic human rights via the creation of opt-in alternatives to traditional power structures.
 
 Working alongside experienced activists, our dream candidate is one who firmly aligns with our political and philosophical ethos. We’re not looking for someone that is just “into crypto/web3” but an individual that lives and breathes cypherpunk ideals and shows a passion for disruption through unconventional means.
 
