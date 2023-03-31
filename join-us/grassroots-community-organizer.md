@@ -12,7 +12,7 @@ Working alongside experienced activists, our dream candidate is one who firmly a
 
 ### About Acid.info
 
-[Acid.info](http://Acid.info) is a creative design studio within the Logos DAO. It serves as the organization’s communications hub and is made up of designers, coders, linguists, dreamers and revolutionaries. The department takes a brutalist approach to the creation process, favoring impactful designs over superfluous detail that risks diluting or warping the overall message.  
+[Acid.info](http://Acid.info) is a creative design studio within Logos. It serves as the organization’s communications hub and is made up of designers, coders, linguists, dreamers and revolutionaries. The department takes a brutalist approach to the creation process, favoring impactful designs over superfluous detail that risks diluting or warping the overall message.  
 
 ### About Logos
 
