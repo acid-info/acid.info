@@ -20,4 +20,4 @@ Logos emerges from and builds upon the mission undertaken by Status. More overtl
 
 To learn more about Logos, consult this [handbook](https://github.com/acid-info/public-assets/blob/master/logos-manual.pdf). 
 
-Got what it takes? Check the expanded [job description](https://grnh.se/bd98c8601us), apply and join us.
+Got what it takes? Check the expanded [job description](https://grnh.se/74e626161us), apply and join us.
