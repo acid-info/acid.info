@@ -1,9 +1,9 @@
 ---
-title: Senior UI/UX Designer
+title: Studio Design Lead
 ---
-# Senior UI/UX Designer (Web)
+# Studio Design Lead
 
-[Acid.info](http://Acid.info) needs a web UI/UX design veteran to lead our team’s efforts. The chosen candidate will work closely with the studio lead and oversee all aspects of the design process—from R&D to prototyping and production. Alongside the skills to develop and maintain a state-of-the-art design system with diverse themes, the ability to manage the wider design team while creating a culture of collaboration and creativity is vital.
+[Acid.info](http://Acid.info) needs a web UI/UX design veteran & a design researcher to lead our team’s efforts. The chosen candidate will work closely with the studio lead and oversee all aspects of the design process—from R&D to prototyping and production. Alongside the skills to develop and maintain a state-of-the-art design system with diverse themes, the ability to manage the wider design team while creating a culture of collaboration and creativity is vital.
 
 We're building a grassroots movement to create technological alternatives to oppressive systems of societal control. Vehemently anti-censorship, anti-surveillance and anti-authoritarian, we support basic human rights via the creation of opt-in alternatives to traditional power structures.
 
