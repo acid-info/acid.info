@@ -27,6 +27,20 @@
   {
     "metadata": {
       "published": true,
+      "title": "Creative Visual Designer"
+    },
+    "navOrder": -1,
+    "localPath": "join-us/creative-visual-designer.md",
+    "path": [
+      "join-us",
+      "creative-visual-designer"
+    ],
+    "children": [],
+    "isDir": false
+  },
+  {
+    "metadata": {
+      "published": true,
       "title": "Digital Communications Lead"
     },
     "navOrder": -1,
@@ -82,7 +96,7 @@
   {
     "metadata": {
       "published": true,
-      "title": "Senior UI/UX Designer"
+      "title": "Studio Design Lead"
     },
     "navOrder": -1,
     "localPath": "join-us/senior-ui-designer.md",
