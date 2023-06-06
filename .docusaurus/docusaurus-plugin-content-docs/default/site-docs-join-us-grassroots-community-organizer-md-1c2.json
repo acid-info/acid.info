@@ -1,0 +1,25 @@
+{
+  "unversionedId": "join-us/grassroots-community-organizer",
+  "id": "join-us/grassroots-community-organizer",
+  "title": "Grassroots Community Organizer",
+  "description": "Acid.info is eager to bring a passionate, driven grassroots community organizer onboard to steer our political movement-building operations. Our ideal candidate will nurture our fledgling community of volunteers, core contributors and activists as we embark on our mission to rebuild humanity’s future with liberation-geared, people-powered software.",
+  "source": "@site/docs/join-us/grassroots-community-organizer.md",
+  "sourceDirName": "join-us",
+  "slug": "/join-us/grassroots-community-organizer",
+  "permalink": "/join-us/grassroots-community-organizer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Grassroots Community Organizer"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Digital Communications Lead",
+    "permalink": "/join-us/digital-communications-lead"
+  },
+  "next": {
+    "title": "Head of Copy",
+    "permalink": "/join-us/head-of-copy"
+  }
+}
