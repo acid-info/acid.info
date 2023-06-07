@@ -1,0 +1,312 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "/Users/amir/projects/status/websites/acid.info/docs",
+          "contentPathLocalized": "/Users/amir/projects/status/websites/acid.info/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Manifesto",
+              "description": "Acid is designing the future.",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Manifesto"
+              },
+              "sidebar": "defaultSidebar",
+              "next": {
+                "title": "Join Us",
+                "permalink": "/join-us/"
+              }
+            },
+            {
+              "unversionedId": "join-us/community-marketing-&-communications-strategist",
+              "id": "join-us/community-marketing-&-communications-strategist",
+              "title": "Community Marketing & Communications Strategist",
+              "description": "Acid.info needs a community marketing and communications strategy wizard to join its Movement Building and Campaign Activation unit. The chosen applicant will be tasked with developing a clear, purpose-driven communications strategy for multiple teams under the wider organization’s umbrella. We’re looking for an inspiring, motivating, impactful and energetic individual to take the reigns and reflect these qualities and our political philosophy across all future communications.",
+              "source": "@site/docs/join-us/community-marketing-&-communications-strategist.md",
+              "sourceDirName": "join-us",
+              "slug": "/join-us/community-marketing-&-communications-strategist",
+              "permalink": "/join-us/community-marketing-&-communications-strategist",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Community Marketing & Communications Strategist"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Join Us",
+                "permalink": "/join-us/"
+              },
+              "next": {
+                "title": "Creative Visual Designer",
+                "permalink": "/join-us/creative-visual-designer"
+              }
+            },
+            {
+              "unversionedId": "join-us/creative-visual-designer",
+              "id": "join-us/creative-visual-designer",
+              "title": "Creative Visual Designer",
+              "description": "Acid.info needs an innovative creative visual designer to join its Technology and Design Studio. The chosen candidate will be tasked with developing and implementing a wide range of digital designs for our websites, from concept development to wireframing and interactive prototypes. Your work should reflect our design philosophy while also pushing our design systems’ boundaries.",
+              "source": "@site/docs/join-us/creative-visual-designer.md",
+              "sourceDirName": "join-us",
+              "slug": "/join-us/creative-visual-designer",
+              "permalink": "/join-us/creative-visual-designer",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Creative Visual Designer"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Community Marketing & Communications Strategist",
+                "permalink": "/join-us/community-marketing-&-communications-strategist"
+              },
+              "next": {
+                "title": "Digital Communications Lead",
+                "permalink": "/join-us/digital-communications-lead"
+              }
+            },
+            {
+              "unversionedId": "join-us/digital-communications-lead",
+              "id": "join-us/digital-communications-lead",
+              "title": "Digital Communications Lead",
+              "description": "Acid.info needs a seasoned Digital Communications Lead to join its Movement Building and Campaign Activation unit. Derived from our political philosophy, the message you help formulate will be central to everything we do. If you’re a communications mage and natural storyteller, capable of delivering a complex narrative in the most impactful way, this could be the gig for you.",
+              "source": "@site/docs/join-us/digital-communications-lead.md",
+              "sourceDirName": "join-us",
+              "slug": "/join-us/digital-communications-lead",
+              "permalink": "/join-us/digital-communications-lead",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Digital Communications Lead"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Creative Visual Designer",
+                "permalink": "/join-us/creative-visual-designer"
+              },
+              "next": {
+                "title": "Grassroots Community Organizer",
+                "permalink": "/join-us/grassroots-community-organizer"
+              }
+            },
+            {
+              "unversionedId": "join-us/grassroots-community-organizer",
+              "id": "join-us/grassroots-community-organizer",
+              "title": "Grassroots Community Organizer",
+              "description": "Acid.info is eager to bring a passionate, driven grassroots community organizer onboard to steer our political movement-building operations. Our ideal candidate will nurture our fledgling community of volunteers, core contributors and activists as we embark on our mission to rebuild humanity’s future with liberation-geared, people-powered software.",
+              "source": "@site/docs/join-us/grassroots-community-organizer.md",
+              "sourceDirName": "join-us",
+              "slug": "/join-us/grassroots-community-organizer",
+              "permalink": "/join-us/grassroots-community-organizer",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Grassroots Community Organizer"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Digital Communications Lead",
+                "permalink": "/join-us/digital-communications-lead"
+              },
+              "next": {
+                "title": "Head of Copy",
+                "permalink": "/join-us/head-of-copy"
+              }
+            },
+            {
+              "unversionedId": "join-us/head-of-copy",
+              "id": "join-us/head-of-copy",
+              "title": "Head of Copy",
+              "description": "Acid.info is hunting for an experienced, creative Head of Copy to oversee the content production process across various mediums, including digital, print and social media. The chosen candidate will lead our copywriting and technical documentation efforts, supporting the wider organization’s communication needs.",
+              "source": "@site/docs/join-us/head-of-copy.md",
+              "sourceDirName": "join-us",
+              "slug": "/join-us/head-of-copy",
+              "permalink": "/join-us/head-of-copy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Head of Copy"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Grassroots Community Organizer",
+                "permalink": "/join-us/grassroots-community-organizer"
+              },
+              "next": {
+                "title": "Studio Design Lead",
+                "permalink": "/join-us/studio-design-lead"
+              }
+            },
+            {
+              "unversionedId": "join-us/index",
+              "id": "join-us/index",
+              "title": "Join Us",
+              "description": "- Community Marketing & Communications Strategist",
+              "source": "@site/docs/join-us/index.md",
+              "sourceDirName": "join-us",
+              "slug": "/join-us/",
+              "permalink": "/join-us/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Join Us"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Manifesto",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Community Marketing & Communications Strategist",
+                "permalink": "/join-us/community-marketing-&-communications-strategist"
+              }
+            },
+            {
+              "unversionedId": "join-us/studio-design-lead",
+              "id": "join-us/studio-design-lead",
+              "title": "Studio Design Lead",
+              "description": "Acid.info needs a web UI/UX design veteran & a design researcher to lead our team’s efforts. The chosen candidate will work closely with the studio lead and oversee all aspects of the design process—from R&D to prototyping and production. Alongside the skills to develop and maintain a state-of-the-art design system with diverse themes, the ability to manage the wider design team while creating a culture of collaboration and creativity is vital.",
+              "source": "@site/docs/join-us/studio-design-lead.md",
+              "sourceDirName": "join-us",
+              "slug": "/join-us/studio-design-lead",
+              "permalink": "/join-us/studio-design-lead",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Studio Design Lead"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Head of Copy",
+                "permalink": "/join-us/head-of-copy"
+              },
+              "next": {
+                "title": "Web Developer",
+                "permalink": "/join-us/web-developer"
+              }
+            },
+            {
+              "unversionedId": "join-us/web-developer",
+              "id": "join-us/web-developer",
+              "title": "Web Developer",
+              "description": "Acid.info needs an elite web developer to support our communications strategy and take responsibility for the development and technical maintenance of various web-based projects. Working closely with the communications hub’s development team, studio lead and design team, our chosen candidate will make decisions on code architecture, conduct testing and select an optimum technology stack, as well as other related tasks.",
+              "source": "@site/docs/join-us/web-developer.md",
+              "sourceDirName": "join-us",
+              "slug": "/join-us/web-developer",
+              "permalink": "/join-us/web-developer",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Web Developer",
+                "category": "jobs"
+              },
+              "sidebar": "defaultSidebar",
+              "previous": {
+                "title": "Studio Design Lead",
+                "permalink": "/join-us/studio-design-lead"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Join Us",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "join-us/community-marketing-&-communications-strategist"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "join-us/creative-visual-designer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "join-us/digital-communications-lead"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "join-us/grassroots-community-organizer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "join-us/head-of-copy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "join-us/studio-design-lead"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "join-us/web-developer"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "join-us/index"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-plugin-sass": {},
+  "logos-docusaurus-search-local": {},
+  "docusaurus-theme-classic": {},
+  "logos-docusaurus-theme": {},
+  "docusaurus-theme-mermaid": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

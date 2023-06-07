@@ -1,0 +1,25 @@
+{
+  "unversionedId": "join-us/studio-design-lead",
+  "id": "join-us/studio-design-lead",
+  "title": "Studio Design Lead",
+  "description": "Acid.info needs a web UI/UX design veteran & a design researcher to lead our team’s efforts. The chosen candidate will work closely with the studio lead and oversee all aspects of the design process—from R&D to prototyping and production. Alongside the skills to develop and maintain a state-of-the-art design system with diverse themes, the ability to manage the wider design team while creating a culture of collaboration and creativity is vital.",
+  "source": "@site/docs/join-us/studio-design-lead.md",
+  "sourceDirName": "join-us",
+  "slug": "/join-us/studio-design-lead",
+  "permalink": "/join-us/studio-design-lead",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Studio Design Lead"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Head of Copy",
+    "permalink": "/join-us/head-of-copy"
+  },
+  "next": {
+    "title": "Web Developer",
+    "permalink": "/join-us/web-developer"
+  }
+}

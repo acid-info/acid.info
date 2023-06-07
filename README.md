@@ -1,13 +1,46 @@
+- [Description](#description)
+- [How to Run Locally](#how-to-run-locally)
+- [Configuration](#configuration)
+- [Customization](#customization)
+
 ## Description
 
-Content of `[your-site]` website 
+This repository contains the content of your documentation website.
 
-## Practical notes
-- Please keep this repo clean and for markdown content ONLY
-- In case you have any issue with rendering, how website looks (design), etc, please file an issue on [logos website builder](https://github.com/acid-info/logos-site-builder/issues). And/or feel free to contact Amir.
+## How to Run Locally
 
-## Process
-1. Clone this repo for a new website (click on use this template)
-2. Adjust the Jekinfile: Update DEV_SITE environment variable in the Jenkinsfile in the clone logos site-builder content template with your domain, such as dev.domain.com and uncomment it before the build.
-3. Add your domain name to CNAME file located in `/statis-assets/`CNAME` 
-4. Create a issue and assign to @serhanwbahar to take care of deployment
+1. Clone this repository.
+2. Install the dependencies:
+```bash
+$ yarn
+```
+3. Start and open the website in your browser:
+```bash
+$ yarn start
+```
+
+## Configuration
+Edit the `docusaurus.config.js` file in the repository's root directory, and update the value of the `businessUnit` field in presets section; below is a list of valid values:
+- Logos
+- Codex
+- Waku
+
+Example:
+```js
+presets: [
+  [
+    '@acid-info/logos-docusaurus-preset',
+    {
+      businessUnit: 'Codex',
+    },
+  ],
+],
+```
+
+This is probably enough in most cases, as the Logos plugins will fill in other configurations related to the specified business unit. If you find any error in the information coming from Logos Plugins, please head over to [Logos Docusaurus Plugins](https://github.com/acid-info/logos-docusaurus-plugins) and create an issue.
+
+## Customization
+
+You can find the instructions on adding more documentation sections, localization, and versioning on the [Docusaurus](https://docusaurus.io/docs) website.
+
+> Note that theme customization is limited; for further instructions on customizing your theme, head over to [Logos Docusaurus Theme](https://github.com/acid-info/logos-docusaurus-plugins/tree/main/packages/logos-docusaurus-theme/). 

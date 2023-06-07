@@ -1,0 +1,22 @@
+{
+  "unversionedId": "join-us/web-developer",
+  "id": "join-us/web-developer",
+  "title": "Web Developer",
+  "description": "Acid.info needs an elite web developer to support our communications strategy and take responsibility for the development and technical maintenance of various web-based projects. Working closely with the communications hub’s development team, studio lead and design team, our chosen candidate will make decisions on code architecture, conduct testing and select an optimum technology stack, as well as other related tasks.",
+  "source": "@site/docs/join-us/web-developer.md",
+  "sourceDirName": "join-us",
+  "slug": "/join-us/web-developer",
+  "permalink": "/join-us/web-developer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Web Developer",
+    "category": "jobs"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Studio Design Lead",
+    "permalink": "/join-us/studio-design-lead"
+  }
+}
