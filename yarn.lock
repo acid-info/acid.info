@@ -2,13 +2,13 @@
 # yarn lockfile v1
 
 
-"@acid-info/logos-docusaurus-preset@^1.0.0-alpha.19":
-  version "1.0.0-alpha.25"
-  resolved "https://registry.yarnpkg.com/@acid-info/logos-docusaurus-preset/-/logos-docusaurus-preset-1.0.0-alpha.25.tgz#578db44e6300025752b1feeeb819ce49c1f61fd8"
-  integrity sha512-RASc25yIDba/ZEsWxNtyacIwCqwiOgGQ316L5/q89MVzbcbaNpBOd+9bKJqIVJxy7UYQxgfzg/lUV+pERkxR7g==
+"@acid-info/logos-docusaurus-preset@^1.0.0-alpha.34":
+  version "1.0.0-alpha.34"
+  resolved "https://registry.yarnpkg.com/@acid-info/logos-docusaurus-preset/-/logos-docusaurus-preset-1.0.0-alpha.34.tgz#714aa2f0de27ad285d3b1655bf9e9e8e924aadc9"
+  integrity sha512-P15D3v8hc1+wVpvR1pgFo4Kz7pFlE3hJtTC+XeSE6hCITNeIkyNkVhbNF+Q4YP/ODbSSjnCHw0qtQg8aTR4+8Q==
   dependencies:
     "@acid-info/logos-docusaurus-search-local" "^1.0.0-alpha.19"
-    "@acid-info/logos-docusaurus-theme" "^1.0.0-alpha.24"
+    "@acid-info/logos-docusaurus-theme" "^1.0.0-alpha.34"
     "@docusaurus/core" "^2.4.1"
     "@docusaurus/module-type-aliases" "^2.4.1"
     "@docusaurus/preset-classic" "^2.4.1"
@@ -34,10 +34,10 @@
     "@easyops-cn/docusaurus-search-local" "^0.33.6"
     lodash "^4.17.21"
 
-"@acid-info/logos-docusaurus-theme@^1.0.0-alpha.24":
-  version "1.0.0-alpha.24"
-  resolved "https://registry.yarnpkg.com/@acid-info/logos-docusaurus-theme/-/logos-docusaurus-theme-1.0.0-alpha.24.tgz#2099bb45ca18d1ede3fd7931a26ebb8db577fdd4"
-  integrity sha512-thANxVKHdxIPw6YyJWSZVSKy7vcfUDTFODzw8mXF928Cwi3+igRW5JMVERlSjs2g1q9Ik4K8E9MRih2NauuXDA==
+"@acid-info/logos-docusaurus-theme@^1.0.0-alpha.34":
+  version "1.0.0-alpha.34"
+  resolved "https://registry.yarnpkg.com/@acid-info/logos-docusaurus-theme/-/logos-docusaurus-theme-1.0.0-alpha.34.tgz#b8c78266139435892053bb5e848465bf6d97707a"
+  integrity sha512-Poe4y4mNjKwUWODl7O1fAUgFYq8fbbSNPnfMfu/zBi6cLn40ksZAWaJPGueDbrePRkK2bKEMMgad8qj1YZnTHw==
   dependencies:
     "@acid-info/lsd-react" "^0.1.0-alpha.13"
     "@docusaurus/core" "^2.4.1"
@@ -62,6 +62,7 @@
     clsx "^1.2.1"
     copy-text-to-clipboard "^3.0.1"
     copy-to-clipboard "^3.3.2"
+    date-fns "^2.30.0"
     docusaurus-plugin-sass "^0.2.3"
     dotenv "^16.0.3"
     lodash "^4.17.21"
@@ -1853,6 +1854,13 @@
   version "7.22.3"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.22.3.tgz#0a7fce51d43adbf0f7b517a71f4c3aaca92ebcbb"
   integrity sha512-XsDuspWKLUsxwCp6r7EhsExHtYfbe5oAGQ19kqngTdCPUoPQzOPdUbD/pB9PJiwb2ptYKQDjSJT3R6dC+EPqfQ==
+  dependencies:
+    regenerator-runtime "^0.13.11"
+
+"@babel/runtime@^7.21.0":
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.22.5.tgz#8564dd588182ce0047d55d7a75e93921107b57ec"
+  integrity sha512-ecjvYlnAaZ/KVneE/OdKYBYfgXV3Ptu6zQWmgEF7vwKhQnvVS6bjMD2XYgj+SNvQ1GfK/pjgokfPkC/2CO8CuA==
   dependencies:
     regenerator-runtime "^0.13.11"
 
@@ -6045,6 +6053,13 @@ data-urls@^1.1.0:
     abab "^2.0.0"
     whatwg-mimetype "^2.2.0"
     whatwg-url "^7.0.0"
+
+date-fns@^2.30.0:
+  version "2.30.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.30.0.tgz#f367e644839ff57894ec6ac480de40cae4b0f4d0"
+  integrity sha512-fnULvOpxnC5/Vg3NCiWelDsLiUc9bRwAPs/+LfTLNvetFCtCTN+yQz15C/fs4AwX1R9K5GLtLfn8QW+dWisaAw==
+  dependencies:
+    "@babel/runtime" "^7.21.0"
 
 dayjs@^1.11.7:
   version "1.11.7"
