@@ -4,5 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    filters:
-      - name: "@acid-info/logos-docusaurus-preset"
+    allow:
+      - @acid-info/logos-docusaurus-preset
+      
