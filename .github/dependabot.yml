@@ -5,5 +5,4 @@ updates:
     schedule:
       interval: "daily"
     allow:
-      - @acid-info/logos-docusaurus-preset
-      
+      - dependency-name: "@acid-info/logos-docusaurus-preset"
