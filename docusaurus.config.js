@@ -36,10 +36,10 @@ const config = {
           path: "docs",
           routeBasePath: "/",
         },
+        og: {},
       }),
     ],
   ],
-  themes: ["@docusaurus/theme-mermaid"],
 
   themeConfig:
     /** @type {import('@acid-info/logos-docusaurus-preset').ThemeConfig} */
