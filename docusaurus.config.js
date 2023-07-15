@@ -33,8 +33,8 @@ const config = {
           },
         },
         docs: {
-          path: "docs",
-          routeBasePath: "/",
+          routeBasePath: '/',
+          path: 'root-pages',
         },
         og: {},
       }),
