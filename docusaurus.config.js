@@ -69,10 +69,6 @@ const config = {
                 label: "Twitter",
               },
               {
-                href: "https://discord.gg/<DISCORD_HANDLE>",
-                label: "Discord",
-              },
-              {
                 href: "https://github.com/acid-info",
                 label: "Github",
               },
@@ -80,10 +76,6 @@ const config = {
           },
           {
             items: [
-              {
-                href: "/",
-                label: "Contact us",
-              },
               {
                 href: "https://jobs.status.im/",
                 label: "Work with us",
