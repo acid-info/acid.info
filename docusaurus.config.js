@@ -73,11 +73,7 @@ const config = {
                 label: "Discord",
               },
               {
-                href: "/",
-                label: "Docs",
-              },
-              {
-                href: "https://github.com/<GITHUB_HANDLE>",
+                href: "https://github.com/acid-info",
                 label: "Github",
               },
             ],
