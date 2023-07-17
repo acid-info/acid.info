@@ -30,11 +30,14 @@ const config = {
           name: "default",
           options: {
             customCss: [require.resolve("./src/css/custom.scss")],
+            typography: {
+              genericFontFamily: "monospace",
+            },
           },
         },
         docs: {
-          routeBasePath: '/',
-          path: 'root-pages',
+          routeBasePath: "/",
+          path: "root-pages",
         },
         og: {},
       }),
