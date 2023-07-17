@@ -66,25 +66,13 @@ const config = {
                 label: "Twitter",
               },
               {
-                href: "https://discord.gg/<DISCORD_HANDLE>",
-                label: "Discord",
-              },
-              {
-                href: "/",
-                label: "Docs",
-              },
-              {
-                href: "https://github.com/<GITHUB_HANDLE>",
+                href: "https://github.com/acid-info/acid.info",
                 label: "Github",
               },
             ],
           },
           {
             items: [
-              {
-                href: "/",
-                label: "Contact us",
-              },
               {
                 href: "https://jobs.status.im/",
                 label: "Work with us",
