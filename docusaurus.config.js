@@ -30,11 +30,14 @@ const config = {
           name: "default",
           options: {
             customCss: [require.resolve("./src/css/custom.scss")],
+            typography: {
+              genericFontFamily: "monospace",
+            },
           },
         },
         docs: {
-          routeBasePath: '/',
-          path: 'root-pages',
+          routeBasePath: "/",
+          path: "root-pages",
         },
         og: {},
       }),
@@ -66,7 +69,7 @@ const config = {
                 label: "Twitter",
               },
               {
-                href: "https://github.com/acid-info/acid.info",
+                href: "https://github.com/acid-info",
                 label: "Github",
               },
             ],
