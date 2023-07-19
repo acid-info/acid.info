@@ -35,11 +35,11 @@
   }
 
   article {
-    p:first-child img {
+    img {
       margin-bottom: 8px;
     }
 
-    p:first-child img + button {
+    img + button {
       display: none !important;
     }
 
