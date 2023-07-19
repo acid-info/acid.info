@@ -35,12 +35,15 @@
   }
 
   article {
-    img {
-      margin-bottom: 8px;
-    }
+    .logo {
+      b {
+        display: none;
+      }
 
-    img + button {
-      display: none !important;
+      img {
+        margin-bottom: 13px !important;
+        height: 40px;
+      }
     }
 
     p {
