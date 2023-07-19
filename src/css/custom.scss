@@ -30,11 +30,15 @@
 
   .row > .col {
     max-width: 500px !important;
-    margin: 100px 0 !important;
+    margin: 50px 0 !important;
     padding: 0 !important;
   }
 
   article {
+    p:first-child img {
+      margin-bottom: 8px;
+    }
+
     p:first-child img + button {
       display: none !important;
     }
