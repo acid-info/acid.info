@@ -10,7 +10,7 @@ We are building a grassroots movement creating technological alternatives to opp
 
 Working alongside experienced activists, our dream candidate is one who firmly aligns with our political and philosophical ethos. We’re not looking for someone that is just “into crypto/web3” but an individual that lives and breathes cypherpunk ideals and shows a passion for disruption through unconventional means.
 
-### About [Acid.info](http://acid.info/)
+### About Acid.info
 
 [Acid.info](http://acid.info/) is a creative design studio within Logos. It serves as the organization’s communications hub and is made up of designers, coders, linguists, dreamers and revolutionaries. The department takes a brutalist approach to the creation process, favoring impactful designs over superfluous detail that risks diluting or warping the overall message.
 
