@@ -1,7 +1,6 @@
 ---
 title: Manifesto
 ---
-Acid is designing the future.
 
 The future is a second enlightenment of the digital world.
 
