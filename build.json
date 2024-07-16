@@ -1,0 +1,15 @@
+{
+    "timestamp": "2024-07-16T14:41:42Z",
+    "git": {
+        "commit": "17edce986e642198e5604c319bd1d9cf56ae089b",
+        "branch": "origin/master",
+        "url": "git@github.com:acid-info/acid.info.git"
+    },
+    "build": {
+        "id": "48",
+        "number": "48",
+        "name": "website/acid.info",
+        "slave": "linux-01",
+        "url": "https://ci.infra.status.im/job/website/job/acid.info/48/"
+    }
+}
