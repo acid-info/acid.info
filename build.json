@@ -1,0 +1,15 @@
+{
+    "timestamp": "2024-07-16T14:28:58Z",
+    "git": {
+        "commit": "3490d7a03dee20379eedb09c00296292b4058817",
+        "branch": "origin/deploy-with-caddy-git",
+        "url": "git@github.com:acid-info/acid.info.git"
+    },
+    "build": {
+        "id": "47",
+        "number": "47",
+        "name": "website/acid.info",
+        "slave": "linux-01",
+        "url": "https://ci.infra.status.im/job/website/job/acid.info/47/"
+    }
+}
