@@ -1,15 +1,15 @@
 {
-    "timestamp": "2024-07-16T14:31:30Z",
+    "timestamp": "2024-08-02T08:00:09Z",
     "git": {
         "commit": "d957d6e4e0b40d10c688c5bbc385e647fe7f7a16",
         "branch": "origin/develop",
         "url": "git@github.com:acid-info/acid.info.git"
     },
     "build": {
-        "id": "73",
-        "number": "73",
+        "id": "74",
+        "number": "74",
         "name": "website/dev.acid.info",
         "slave": "linux-01",
-        "url": "https://ci.infra.status.im/job/website/job/dev.acid.info/73/"
+        "url": "https://ci.infra.status.im/job/website/job/dev.acid.info/74/"
     }
 }
